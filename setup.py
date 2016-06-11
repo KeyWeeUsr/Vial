@@ -8,10 +8,12 @@ setup(name='aes-vial',
       author='Peter Badida',
       author_email='keyweeusr@gmail.com',
       url='https://github.com/KeyWeeUsr/Vial',
+      download_url='https://github.com/KeyWeeUsr/Vial/tarball/0.1.0',
       packages=['vial'],
       classifiers=[
           'Topic :: Security :: Cryptography',
           'License :: OSI Approved :: MIT License',
       ],
+      keywords=['security', 'cryptography', 'wrapper', 'aes', 'ctr'],
       license="License :: OSI Approved :: MIT License",
       )
